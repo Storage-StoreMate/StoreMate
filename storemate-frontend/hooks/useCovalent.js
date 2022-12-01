@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-//tests
+//test
 
 const COVALENT_BASE_URL = "https://api.covalenthq.com";
 const CHAIN_ID = "5";
